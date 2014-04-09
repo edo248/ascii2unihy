@@ -20,9 +20,9 @@ USAGE
 -------------------
 To compile the application just run
 
-% make clean
-% make
+ % make clean
+ % make
 
 To use it run the executable and provide it with the file to be converted:
 
- % ./ascii2uni some_ascii_file.txt
+ % ./ascii2unihy some_ascii_file.txt
