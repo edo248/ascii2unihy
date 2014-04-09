@@ -4,7 +4,7 @@ ascii2unihy
 Armenian ASCII encoding to Unicode converter
 
 GENERAL INFORMATION
-===================
+-------------------
 This a small project I wrote sometime in 2008 when Unicode.
 encoding for Armenian was just starting. I had numerous files.
 in ASCII encoding that needed to be converted into Unicode..
@@ -17,8 +17,7 @@ to edo248[at]gmail.com
 
 
 USAGE
-===================
-
+-------------------
 To compile the application just run
 
 % make clean
